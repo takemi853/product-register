@@ -1,0 +1,2 @@
+# product-register
+Railsでのテストアプリのデプロイ用
